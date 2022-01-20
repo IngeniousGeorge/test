@@ -1,3 +1,9 @@
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+
+
+
+
+
 If you know how to create links in Markdown, you can create images, too. The syntax is nearly the same.
 
 Images also have two styles, just like links, and both of them render the exact same way. The difference between links and images is that images are prefaced with an exclamation point ( ! ).
