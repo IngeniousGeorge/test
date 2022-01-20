@@ -26,4 +26,4 @@ isn't **it**?
 
 image of plant:
 
-![plant](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Snake_plant.jpg/1200px-Snake_plant.jpg)
+<img src="https://camo.githubusercontent.com/cc6b217377dca4e3a159a55b07a554e8b9191ea1cd72c22ddd4f8c93cf501beb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39312f536e616b655f706c616e742e6a70672f3132303070782d536e616b655f706c616e742e6a7067" width=50% height=50%>
