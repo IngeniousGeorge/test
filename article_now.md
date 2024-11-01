@@ -60,8 +60,7 @@ Theory of attachment, with attachment the victim of civilization, from interpret
 Figure 3:  
 
 ---
-![Figure 3a - Groupoids](/images/figure_groupoid.png)
-![Figure 3b - Homotopies](/images/figure_homotopy.gif)
+![Figure 3a - Groupoids](/images/figure_groupoid.png) ![Figure 3b - Homotopies](/images/figure_homotopy.gif)
 > This is the legend
 ---
 
